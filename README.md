@@ -4,10 +4,10 @@ This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
 # Screenshots
-<img src="https://raw.githubusercontent.com/hasankarli/ember-quickstart/master/screenshots/index.png" width="440"></img>
-<img src="https://raw.githubusercontent.com/hasankarli/ember-quickstart/master/screenshots/detail-1.png" width="440"></img>
-<img src="https://raw.githubusercontent.com/hasankarli/ember-quickstart/master/screenshots/detail-3.png" width="440"></img>
-<img src="https://raw.githubusercontent.com/hasankarli/ember-quickstart/master/screenshots/detail-2.png" width="440"></img>
+<img src="https://raw.githubusercontent.com/hasankarli/ember-quickstart/master/screenshots/index.png" width="220"></img>
+<img src="https://raw.githubusercontent.com/hasankarli/ember-quickstart/master/screenshots/detail-1.png" width="220"></img>
+<img src="https://raw.githubusercontent.com/hasankarli/ember-quickstart/master/screenshots/detail-3.png" width="220"></img>
+<img src="https://raw.githubusercontent.com/hasankarli/ember-quickstart/master/screenshots/detail-2.png" width="220"></img>
 
 
 ## Prerequisites
